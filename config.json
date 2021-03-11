@@ -1,7 +1,7 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Nhonn's Blog",
+  "site_description": "Nhonn's blog, sharing tips and tricks",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -11,9 +11,15 @@
     },
     {
       "keyword": "React"
+    },
+    {
+      "keyword": "Nhon Nguyen"
+    },
+    {
+      "keyword": "Frontend"
     }
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "posts_per_page": 8,
+  "linkedin_account": "nhonnt97",
+  "github_account": "nhonn"
 }
